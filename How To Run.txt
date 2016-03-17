@@ -1,0 +1,9 @@
+1. Place the folder in the Matlab Path
+2. have Windows SDK with .NET framework 4 installed
+3. Type 'mex -setup' in command window
+4. Enter y
+5. It will display a list of compilers available
+6. Choose 1 or 2 and type the same
+7. Type mex HoG.cpp in command window
+8. Run Detect_Faces.m and select an image from the 'Test Images'
+9. Observe results
